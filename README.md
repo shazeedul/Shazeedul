@@ -1,5 +1,5 @@
 
-![Banner](https://user-images.githubusercontent.com/85868041/222903503-425feb69-92f3-4459-b116-5a188e9961ee.png)
+<img src=”https://user-images.githubusercontent.com/85868041/222903503-425feb69-92f3-4459-b116-5a188e9961ee.png" alt=”my banner”>
 
 <!--
 **Shazeedul/Shazeedul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
