@@ -4,7 +4,10 @@
 </p>
 
 <h1>💼 Technical skills</h1>
-<p><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><p/>
+<p>
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="html" src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<p/>
 
 <!--
 **Shazeedul/Shazeedul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
