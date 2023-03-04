@@ -22,6 +22,7 @@
   <img alt="soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/>
   <img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
   <img alt="youtube-music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
+  <img alt="youtube-music" src="https://img.shields.io/github/followers/Shazeedul.svg?style=social&label=Follow&maxAge=2592000"/>
 </p>
 
 <!--
