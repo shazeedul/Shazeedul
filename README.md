@@ -3,10 +3,7 @@
 <img src="https://user-images.githubusercontent.com/85868041/222903830-fef1f609-ce01-4108-8600-5a7508f0bcee.png" alt="my banner">
 </p>
 
-<p>
-💼 Technical skills
-  
-</p>
+<h1>💼 Technical skills</h1>
 
 <!--
 **Shazeedul/Shazeedul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
