@@ -34,6 +34,13 @@
   <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </p>
 
+<h1>⏱️ Workflow Platforms</h1>
+<p>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img alt="TeamCity" src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white"/>
+</p>
+
 <!--
 **Shazeedul/Shazeedul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
