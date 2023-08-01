@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/shazeedul"><img src="https://api.daily.dev/devcards/67bd804901ab43aabd0fcd77a784f526.png?r=t7x" width="400" alt="Syed Shazeedul Islam's Dev Card"/></a>
 <p align=”center”>
 <img src="https://user-images.githubusercontent.com/85868041/222903830-fef1f609-ce01-4108-8600-5a7508f0bcee.png" alt="my banner">
 </p>
@@ -44,6 +43,7 @@
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
+<a href="https://app.daily.dev/shazeedul"><img src="https://api.daily.dev/devcards/67bd804901ab43aabd0fcd77a784f526.png?r=t7x" width="400" alt="Syed Shazeedul Islam's Dev Card"/></a>
 
 <!--
 **Shazeedul/Shazeedul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
