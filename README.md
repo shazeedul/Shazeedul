@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/shazeedul?logo=github&style=for-the
 
 <a href="http://www.github.com/shazeedul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shazeedul&stroke=ffffff&background=1e3a8a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/shazeedul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazeedul&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://app.daily.dev/shazeedul"><img src="https://api.daily.dev/devcards/v2/rfuRrrFGTfJkd4jYy3sBN.png?r=k03&type=default" width="356" alt="Syed Shazeedul Islam's Dev Card"/></a>
 
 ### Support Me
 
