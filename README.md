@@ -41,4 +41,4 @@ src="https://img.shields.io/github/followers/shazeedul?logo=github&style=for-the
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/shazeedul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-<a href="https://app.daily.dev/shazeedul"><img src="https://api.daily.dev/devcards/v2/rfuRrrFGTfJkd4jYy3sBN.png?r=k03&type=default" width="356" alt="Syed Shazeedul Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/shazeedul"><img src="https://api.daily.dev/devcards/v2/rfuRrrFGTfJkd4jYy3sBN.png?type=default&r=8nl" width="356" alt="Syed Shazeedul Islam's Dev Card"/></a>
